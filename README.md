@@ -1,10 +1,9 @@
-Name des Projekts:	Keras_Projekt
-
+Name des Projekts:	Deep Learning mit Keras API
 Link zum MyBinder: 	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HuseyinBgn/6DeepLearning/HEAD)
 
 Doku:	
 
-Die Beispiele der Übungsaufgabe befinden sich in dem Keras_Projekt.ipynb Datei.
+Die Beispiele der Übungsaufgabe befinden sich in dem Deep_Learning.ipynb Datei.
 Die erwarteten Ergebnisse sind unterhalb der jeweiligen Befehle dargestellt. 
 
 Hinweis: Um das erwartete Ergebnis nicht zu verlieren wird empfohlen eine Zwischenzeile zw. dem Befehl 
